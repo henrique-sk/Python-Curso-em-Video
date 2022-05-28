@@ -1,4 +1,4 @@
-from ex115b.lib.arquivo import *
+from lib.arquivo import *
 from time import sleep as sl
 
 arq = 'cursoemvideo.txt'
